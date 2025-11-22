@@ -6,15 +6,10 @@ task-management-system/
 ├── src/
 
 │ ├── controllers/
-
 │ │ ├── authController.js
-
 │ │ ├── userController.js
-
 │ │ ├── taskController.js
-
 │ │ ├── projectController.js
-
 │ │ └── notificationController.js
 
 │ ├── models/
