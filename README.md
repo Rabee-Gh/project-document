@@ -482,4 +482,5 @@ Authorization Errors: User trying to access/modify unauthorized resources
 Database Errors: Duplicate entries, connection issues
 
 Not Found Errors: Resources that don't exist
+
 -------------------
