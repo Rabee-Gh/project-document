@@ -2,17 +2,16 @@
 
 ## Project Structure
 task-management-system/
-
 ├── src/
 
-│ ├── controllers/
-│ │ ├── authController.js
-│ │ ├── userController.js
-│ │ ├── taskController.js
-│ │ ├── projectController.js
-│ │ └── notificationController.js
+│├── controllers/
+││├── authController.js
+││├── userController.js
+││├── taskController.js
+││├── projectController.js
+││└── notificationController.js
 
-│ ├── models/
+│├── models/
 │ │ ├── User.js
 │ │ ├── Task.js
 │ │ ├── Project.js
