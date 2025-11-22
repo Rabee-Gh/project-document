@@ -1,14 +1,22 @@
 # Task Management System API Design
 
 ## Project Structure
-task-management-system/n
-├── src/n
-│ ├── controllers/n
-│ │ ├── authController.js/n
-│ │ ├── userController.js/n
+task-management-system/
+
+├── src/
+
+│ ├── controllers/
+
+│ │ ├── authController.js
+
+│ │ ├── userController.js
+
 │ │ ├── taskController.js
+
 │ │ ├── projectController.js
+
 │ │ └── notificationController.js
+
 │ ├── models/
 │ │ ├── User.js
 │ │ ├── Task.js
